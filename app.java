@@ -1,3 +1,12 @@
-The command below returns a list of information about your git configuration including user name and email:
+class Main {
 
-git config -l
+  public static void main(String[] args) {
+    
+    int first = 10;
+    int second = 20;
+
+    // add two numbers
+    int sum = first + second;
+    System.out.println(first + " + " + second + " = "  + sum);
+  }
+}
